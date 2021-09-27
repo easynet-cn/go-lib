@@ -1,1 +1,1 @@
-# go-lib
+# Golang common lib
